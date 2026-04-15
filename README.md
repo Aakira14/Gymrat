@@ -37,6 +37,4 @@ GymRat is an Android application designed to help users track their workouts, mo
 4. Sync the project with Gradle files.
 5. Run the app on an emulator or a physical device.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
