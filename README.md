@@ -37,4 +37,9 @@ GymRat is an Android application designed to help users track their workouts, mo
 4. Sync the project with Gradle files.
 5. Run the app on an emulator or a physical device.
 
+### Demo video 
+
+- **Check the folder .idea having a file named as untitled.mp4 - download it to watch it **
+- ** Its safe **
+
 
