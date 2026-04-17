@@ -41,5 +41,5 @@ GymRat is an Android application designed to help users track their workouts, mo
 
 ![Demo](assets/demo1.gif)
 
-## You will full Demo video in assest section 
+## You will get full Demo video in assest section 
 
